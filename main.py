@@ -308,7 +308,7 @@ class ArchiveComparerGUI:
         
         # Developer info
         dev_label = ttk.Label(header_frame,
-                             text="Développé par Michel Bermond - Association Santé Prévention au Travail 2607",
+                             text="Développé par Michel Bermond - Association Prévention Santé au Travail 2607",
                              font=('Segoe UI', 8),
                              foreground='#718096')
         dev_label.grid(row=2, column=0, pady=(0, 10))
